@@ -4,7 +4,7 @@
 
 char *sehirler[] = {"Istanbul", "Ankara", "Izmir", "Bursa", "Antalya"};
 
-// Grafın komşuluk matrisi (Adjacency Matrix)
+
 int graf[SEHIR_SAYISI][SEHIR_SAYISI] = {
     {0, 1, 0, 1, 0}, 
     {1, 0, 1, 0, 1}, 
